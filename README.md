@@ -1,5 +1,5 @@
 # Finance - Manage Your Shares (Stock Market)
-As a part of CS59, Implementing a website via which users can “buy” and “sell” stocks.
+As a part of CS50, Implementing a website via which users can “buy” and “sell” stocks.
 
 ## Prototype Given:
 <https://finance.cs50.net/>
